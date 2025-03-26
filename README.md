@@ -24,5 +24,5 @@ This project is a command-line calculator implemented in C for the Programming M
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/programming-methodology-midterm.git
-   cd programming-methodology-midterm
+   git clone https://github.com/milefisher/C_Midterm_1stsem
+   cd C_Midterm_1stsem
